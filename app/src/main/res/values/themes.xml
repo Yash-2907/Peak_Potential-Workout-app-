@@ -3,6 +3,8 @@
     <style name="Base.Theme.PeakPotential" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:statusBarColor">@color/skincolor</item>
+        <item name="android:windowLightStatusBar">true</item>
     </style>
 
     <style name="Theme.PeakPotential" parent="Base.Theme.PeakPotential" />
